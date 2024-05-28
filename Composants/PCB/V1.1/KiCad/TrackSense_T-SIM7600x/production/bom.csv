@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+Hole_gge12314,Hole_gge12314,1,Hole_gge12314,
+Hole_gge26318,Hole_gge26318,1,Hole_gge26318,
+Hole_gge26333,Hole_gge26333,1,Hole_gge26333,
+Hole_gge31514,Hole_gge31514,1,Hole_gge31514,
+Hole_gge31529,Hole_gge31529,1,Hole_gge31529,
+Hole_gge6255,Hole_gge6255,1,Hole_gge6255,
+Hole_gge6258,Hole_gge6258,1,Hole_gge6258,
+"J1, J2, J3, J4",PinSocket_1x15_P2.54mm_Vertical,4,Conn_01x15_Socket,
+J5,PinSocket_1x08_P2.54mm_Vertical,1,Conn_01x08_Socket,
+"J6, J7",JST_XH_S8B-XH-A-1_1x08_P2.50mm_Horizontal,2,Conn_01x08_Pin,
+"J8, J9",JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,2,Conn_01x04_Pin,
+"R3, R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,4.7k,
