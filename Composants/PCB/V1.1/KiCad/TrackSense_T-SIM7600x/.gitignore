@@ -26,4 +26,5 @@ fp-info-cache
 
 *.log
 fabrication-toolkit-options.json
+board2pdf.config.ini
 
