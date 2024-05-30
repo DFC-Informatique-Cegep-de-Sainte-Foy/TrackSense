@@ -406,3 +406,6 @@ Modèles 3D
 
 */.vscode/extensions.json
 
+*.log
+fabrication-toolkit-options.json
+board2pdf.config.ini
