@@ -72,6 +72,13 @@
 
 ## Contributeurs
 
+### Session hiver 2024
+
+>-  [David Fournel-Vézina](https://github.com/DavidFV2296190)
+>-  [Rémi St-Pierre](https://github.com/ray3331)
+>-  [Changfeng Zhao](https://github.com/Kuma-Lingxi)
+
+
 ### Session été 2023
 
 >-  [Dominique Lebrun](https://github.com/dodo-12-37)
