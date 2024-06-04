@@ -30,7 +30,7 @@
 
 
 > L'application embarquée est le programme qui va s'exécuter à l'intérieur de votre TrackSense.
-> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_AppEmbarque).
+> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_TrackSense_AppEmbarque).
 
 <p align="center">
     <img src="./Images/On_the_bike.jpg" alt="Logo_TrackSense" width="200"/>
@@ -39,7 +39,7 @@
 ## Application mobile
 
 > L'application mobile est nécessaire pour configurer et communiquer avec votre TrackSense.
-> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_AppMobile).
+> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_TrackSense_AppMobile).
 
 <p align="center">
     <img src="./Images/trackSenseAppDemo.gif" alt="Logo_TrackSense" width="200"/>
@@ -48,12 +48,12 @@
 ## Application Web (API)
 
 > L'application Web est l'interface qui vous permet de communiquer avec votre base de données. Elle peut être hébergée en ligne ou chez vous.
-> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_ServeurWeb).
+> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_TrackSense_ServeurWeb).
 
 ## Base de données
 
 > La base de données est l'endroit où sont stockées vos données. Elle n'est accessible que via l'application Web.
-> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_E23_4394_TrackSense_BD).
+> Vous trouverez son dépôt GitHub [ici](https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/420-W57-SF_TrackSense_BD).
 
 ## Manuel utilisateur
 
